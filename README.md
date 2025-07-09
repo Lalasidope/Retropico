@@ -1,2 +1,4 @@
 # Retropico
-A PyAuGuiProjett
+A PyAuGuiProjett 
+
+DofusRetroScript automatisation / farm / kamas un max
